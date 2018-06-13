@@ -127,6 +127,26 @@ body {
     background:url(../images/page3_bg.jpg) center top no-repeat;
     background-size:cover;
 }
+/*@-webkit-keyframes scale {*/
+     /*0%{*/
+         /*opacity: 1;*/
+         /*-webkit-transform: scale(1);*/
+     /*}*/
+     /*100%{*/
+         /*opacity: 1;*/
+         /*-webkit-transform: scale(1.04);*/
+     /*}*/
+ /*}*/
+/*@keyframes scale {*/
+    /*0%{*/
+        /*opacity: 1;*/
+        /*-webkit-transform: scale(1);*/
+    /*}*/
+    /*100%{*/
+        /*opacity: 1;*/
+        /*-webkit-transform: scale(1.04);*/
+    /*}*/
+/*}*/
 .page_4{
     background-color: #000;
     background:url(../images/page4_bg.jpg) center top no-repeat;
@@ -136,6 +156,37 @@ body {
     background-color: #000;
     background:url(../images/page5_bg.jpg) center top no-repeat;
     background-size:cover;
+    animation:scale 1.4s .4s linear infinite;
+    -webkit-animation:scale 1.4s .4s linear infinite;
+}
+
+@-webkit-keyframes scale {
+    0%{
+        opacity: 1;
+        height:100%
+    }
+    50%{
+        opacity: 1;
+        height:104%
+    }
+    100%{
+        opacity: 1;
+        height:108%;
+    }
+}
+@keyframes scale {
+    0%{
+        opacity: 1;
+        height:100%
+    }
+    50%{
+        opacity: 1;
+        height:104%
+    }
+    100%{
+        opacity: 1;
+        height:108%;
+    }
 }
 
 
