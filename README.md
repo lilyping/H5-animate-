@@ -10,19 +10,25 @@
 
 
 效果图
+
 ![Alt text](https://github.com/lilyping/H5-animate-/blob/master/%E4%B8%AD%E7%A7%8Bh5%E5%AE%A3%E4%BC%A0%E9%A1%B5/images/showPic.png)
+
 部分说明：第一页，使用了传送带的循环动画效果；还使用了树叶被风吹后摇晃的动画效果
 
 
 ![Alt text](https://github.com/lilyping/H5-animate-/blob/master/%E4%B8%AD%E7%A7%8Bh5%E5%AE%A3%E4%BC%A0%E9%A1%B5/images/showPic2.png)
+
 部分说明：第二页，利用了cut裁剪动画效果（有点类似文本打字出现的效果）；不过cut的动画效果的瑕疵就是设置这种cut效果，安卓显示正常的效果，
 苹果不兼容，效果是直接出现，而不是像打印一样处理；
 
 ![Alt text](https://github.com/lilyping/H5-animate-/blob/master/%E4%B8%AD%E7%A7%8Bh5%E5%AE%A3%E4%BC%A0%E9%A1%B5/images/showPic3.png)
+
 部分说明：第三页，使用了字体垂掉，然后掉到一定位置的效果
 
 ![Alt text](https://github.com/lilyping/H5-animate-/blob/master/%E4%B8%AD%E7%A7%8Bh5%E5%AE%A3%E4%BC%A0%E9%A1%B5/images/showPic4.png)
+
 部分说明：第四页，使用了h5移动端拖拽效果（仿手机开锁那种效果）
 
 ![Alt text](https://github.com/lilyping/H5-animate-/blob/master/%E4%B8%AD%E7%A7%8Bh5%E5%AE%A3%E4%BC%A0%E9%A1%B5/images/showPic5.png)
+
 部分说明：第五页，使用了背景图，由远到近的效果
